@@ -30,11 +30,11 @@
   ],
   "peerDependencies": {
     "next-auth": "^4.0.1",
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.28.2"
   },
   "devDependencies": {
     "next-auth": "^4.0.1",
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.28.2"
   },
   "jest": {
     "preset": "adapter-test/jest"
